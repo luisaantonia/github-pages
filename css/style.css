@@ -1,0 +1,100 @@
+body {
+    background-color: #f5f0f6;
+    font-family: Arial;
+    text-align: center;
+    margin: 0;
+}
+
+
+
+header {
+    background-color: #5b2a6d;
+    color:white;  
+    padding: 20px;
+}
+
+header h1 {
+    margin-bottom: 20px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+
+.inicio {
+    padding: 80px 20px;
+}
+
+.inicio h2 {
+    color: #5b2a6d;
+    font-size: 40px;
+}
+
+.inicio p {
+    font-size: 18px;
+}
+
+button {
+    background-color: #c7366f;
+    color: white;
+
+    border: none;
+    padding: 15px 30px;
+
+    border-radius: 20px;
+
+    font-size: 16px;
+}
+
+
+
+#sobre {
+    background-color: white;
+    padding: 50px;
+}
+
+#sobre h2 {
+    color: #5b2a6d;
+}
+
+#sobre p {
+    font-size: 18px;
+}
+
+
+
+#recursos {
+    padding: 50px;
+}
+
+#recursos h2 {
+    color: #5b2a6d;
+}
+
+.card {
+    background-color: white;
+
+    display: inline-block;
+
+    width: 220px;
+
+    margin: 10px;
+    padding: 20px;
+
+    border-radius: 10px;
+}
+
+.card h3 {
+    color: #c7366f;
+}
+
+
+footer {
+    background-color: #5b2a6d;
+    color: white;
+
+    padding: 20px;
+}
